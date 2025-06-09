@@ -1,0 +1,13 @@
+{
+  "name": "surprise",
+  "main": "./dist/_worker.js",
+  "compatibility_date": "2024-03-19",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "binding": "ASSET",
+    "directory": "./dist",
+  },
+  "observability": {
+    "enabled": true,
+  },
+}
