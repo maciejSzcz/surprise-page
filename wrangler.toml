@@ -1,0 +1,6 @@
+name = "thailand-surprise"
+compatibility_date = "2024-03-19"
+compatibility_flags = ["nodejs_compat"]
+
+[site]
+bucket = "./dist"
